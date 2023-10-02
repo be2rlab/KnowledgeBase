@@ -1,2 +1,3 @@
 # KnowledgeBase
-Knowledge Base / База знаний
+
+Ссылка на расписание занятости серверов / Server Access Schedule
