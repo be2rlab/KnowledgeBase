@@ -10,7 +10,7 @@
 
 
 # Сервисы для структурирования работы с исследованиями
-[ResearchRabbit](https://www.researchrabbit.ai/) — свяжет статьи и построит связный граф, ML подбирет похожие работы. Пока бесплатно.
+[ResearchRabbit](https://www.researchrabbit.ai/) — объединит статьи и построит связный граф, ML подбирет похожие работы. Пока бесплатно.
 ![изображение](https://github.com/be2rlab/KnowledgeBase/assets/40656018/ac043fe0-4a4e-41ea-aa5b-b69b238324dc)
 
 [Logseq](https://github.com/be2rlab/KnowledgeBase/wiki/Logseq) — open-source программа поможет с повседневными заметками и их организацией, построит связный граф. Альтернатива [Obsidian](https://obsidian.md/).
