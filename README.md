@@ -6,7 +6,7 @@
 
 [Сборник информации по квадропедам / Awesome Quadrupedal](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
 
-Актуальные статьи, open-source проекты, yotube канналы, лабарртории. 
+Актуальные статьи, open-source проекты, youtube каналы, лаборатории. 
 
 
 # Сервисы для ведения исследований
