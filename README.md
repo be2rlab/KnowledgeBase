@@ -5,6 +5,7 @@
 [Курсы роботехники / Robotics courses](https://github.com/Developer-Y/cs-video-courses#robotics)
 
 [Сборник информации по квадропедам / Awesome Quadrupedal](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
+
 Актуальные статьи, open-source проекты, yotube канналы, лабарртории. 
 
 
