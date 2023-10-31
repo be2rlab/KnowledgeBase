@@ -20,5 +20,5 @@
 
 [Zotero](https://www.zotero.org/) — организует и синхронизиурет статьи. **бесплатно**
 
-[omnivore](https://omnivore.app) — комментируйте и выделяйте текст прямо в браузере. **open-source, проверено в firefox, можно портировать комменты в Logseq** 
+[omnivore](https://omnivore.app) — комментируйте и выделяйте текст прямо в браузере. **open-source, проверено в firefox** **можно [портировать комменты в Logseq](https://briansunter.com/graph/#/page/omnivore-logseq-guide)** 
 [github](https://github.com/omnivore-app/omnivore)
