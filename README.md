@@ -6,6 +6,8 @@
 
 [Сборник информации по квадропедам / Awesome Quadrupedal](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
 
+[This is an Open Source Software (OSS) project: PythonRobotics, which is a Python code collection of robotics algorithms.](https://atsushisakai.github.io/PythonRobotics/getting_started.html)
+
 Актуальные статьи, open-source проекты, youtube каналы, лаборатории. 
 
 
