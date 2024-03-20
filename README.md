@@ -10,6 +10,8 @@
 
 [This is an Open Source Software (OSS) project: PythonRobotics, which is a Python code collection of robotics algorithms.](https://atsushisakai.github.io/PythonRobotics/getting_started.html)
 
+[Optitrack4ROS2 - Инструкция по настройке и запуску программного обеспечения для работы OptiTrack с ROS2.](https://github.com/be2rlab/Optitrack4ROS2)
+
 Актуальные статьи, open-source проекты, youtube каналы, лаборатории. 
 
 
