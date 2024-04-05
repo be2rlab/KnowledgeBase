@@ -2,6 +2,8 @@
 
 [Занятость серверов / Server Access Schedule](https://docs.google.com/spreadsheets/d/1SBA8zB3kSqXsiFGkHdfXhm5Cove7Vb4YDCJwm8NfDrE/edit#gid=0)
 
+[Занятость Optitrack Arena / Optitrack Arena Access Schedule](https://docs.google.com/spreadsheets/d/1NZZUD_2NdhFoby-d7kuS9Z7eImsyszUlIw91jx2UIcY/edit#gid=0)
+
 [Курсы роботехники / Robotics courses](https://github.com/Developer-Y/cs-video-courses#robotics)
 
 [Сборник информации по квадропедам / Awesome Quadrupedal](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
