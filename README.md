@@ -11,6 +11,8 @@
 
 [Optitrack4ROS2 - Инструкция по настройке и запуску программного обеспечения для работы OptiTrack с ROS2.](https://github.com/be2rlab/Optitrack4ROS2)
 
+[Инструкция по работе с kuka iiwa](kuka_iiwa.md)
+
 Актуальные статьи, open-source проекты, youtube каналы, лаборатории. 
 
 
