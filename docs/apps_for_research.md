@@ -1,0 +1,12 @@
+# Сервисы для структурирования работы с исследованиями
+[ResearchRabbit](https://www.researchrabbit.ai/) — объединит статьи и построит связный граф, ML подбирет похожие работы. **бесплатно**
+![изображение](https://github.com/be2rlab/KnowledgeBase/assets/40656018/ac043fe0-4a4e-41ea-aa5b-b69b238324dc)
+
+[Logseq](https://github.com/be2rlab/KnowledgeBase/wiki/Logseq) — поможет с повседневными заметками и построит связный граф. `Заходите за советами по использованию!`
+Альтернатива [Obsidian](https://obsidian.md/). **open-source**
+![image](https://github.com/be2rlab/KnowledgeBase/assets/65085868/ceacb202-1431-4cf4-a519-18a45b459c36)
+
+[Zotero](https://www.zotero.org/) — организует и синхронизиурет статьи. **бесплатно**
+
+[omnivore](https://omnivore.app) — комментируйте и выделяйте текст прямо в браузере. **open-source, проверено в firefox** **можно [портировать комменты в Logseq](https://briansunter.com/graph/#/page/omnivore-logseq-guide)** 
+[github](https://github.com/omnivore-app/omnivore)
