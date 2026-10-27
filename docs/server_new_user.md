@@ -22,7 +22,7 @@ echo 'export PATH=/usr/bin:$PATH' >> ~/.bashrc
 echo 'export DOCKER_HOST=unix:///run/user/$(id -u)/docker.sock' >> ~/.bashrc
 source ~/.bashrc
 ```
-3) Поставить докер (там будет ошибка, надо внимательно прочитать и запустить команду под рутом):
+3) Поставить докер (там будет ошибка, надо внимательно прочитать и запустить команду **ПОД РУТОМ**):
 ```bash
 curl -fsSL https://get.docker.com/rootless | sh
 ```
