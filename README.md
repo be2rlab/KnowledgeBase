@@ -8,6 +8,8 @@
 
 [Инструкция по настройке новых аккаунтов на сервере](docs/server_new_user.md)
 
+[Инструкция по настройке ClearML и доступу к нему](docs/clear_ml.md)
+
 ## Железо
 
 [Optitrack4ROS2 - Инструкция по настройке и запуску программного обеспечения для работы OptiTrack с ROS2.](https://github.com/be2rlab/Optitrack4ROS2)
