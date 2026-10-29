@@ -16,6 +16,8 @@
 
 [Инструкция по работе с kuka iiwa](docs/kuka_iiwa.md)
 
+[NVIDIA Jetson AGX Xavier & RealSense D455 Data Recording Guide](docs/realsense_scanner.md)
+
 ## Программы и сервисы
 
 [Сервисы для исследований](docs/apps_for_research.md)
